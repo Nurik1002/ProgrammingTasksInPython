@@ -1,0 +1,17 @@
+C++  -  bu umumiy maqsadlar uchun tuzilgan, statik
+usulda   yozilgan  dasturlash  tili.  Protsedurali
+dasturlash,obyektga   yoʻnaltirilgan   dasturlash,
+umumiy          dasturlashkabi          dasturlash
+paradigmalarini   qoʻllab-quvvatlaydi,   modullik,
+alohida        kompilyatsiya,        istisnolardan
+foydalanish,       ma’lumotlar      abstraksiyasi,
+obyektlarning  turlari  (sinflari) deklaratsiyasi,
+virtual    funksiyalarni   ta’minlaydi.   Standart
+kutubxonada   koʻp   ishlatiladigan   konteynerlar
+va     algoritmlar    mavjud.    C    ++    yuqori
+va   past  darajadagi  tillarning  xususiyatlarini
+birlashtiradi. Oldingi C tili bilan taqqoslaganda,
+obyektga  yoʻnaltirilgan  va  umumiy  dasturlashni
+qoʻllab-quvvatlashga  koʻproq  e'tibor qaratiladi.
+
+
