@@ -7,7 +7,6 @@ Programming Tasks in Python is a collection of programming tasks and solutions w
 The programming tasks cover a wide range of topics, including:
 
 - Data structures and algorithms
-- Object-oriented programming
 - File I/O
 - And more!
 
